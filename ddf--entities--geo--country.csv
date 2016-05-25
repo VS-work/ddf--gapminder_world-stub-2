@@ -1,0 +1,16 @@
+country,name,geographic_regions,landlocked,main_religion_2008,code,number,is--country,world_4region,latitude,longitude
+bel,Belgium,europe_central_asia,coastline,christian,BEL,56,TRUE,europe,50.75,4.5
+ben,Benin,sub_saharan_africa,coastline,,BEN,204,TRUE,africa,9.5,2.25
+bgd,Bangladesh,south_asia,coastline,muslim,BGD,50,TRUE,asia,24,90
+bhr,Bahrain,middle_east_north_africa,coastline,muslim,BHR,48,TRUE,asia,26.03333,50.55
+bhs,Bahamas,america,coastline,christian,BHS,44,TRUE,americas,25.04082,-77.37122
+bih,Bosnia and Herzegovina,europe_central_asia,coastline,,BIH,70,TRUE,europe,44.25,17.83333
+blr,Belarus,europe_central_asia,landlocked,christian,BLR,112,TRUE,europe,53,28
+blz,Belize,america,coastline,christian,BLZ,84,TRUE,americas,17.49952,-88.19756
+bmu,Bermuda,america,coastline,christian,BMU,60,TRUE,americas,32.2949,-64.78303
+bol,Bolivia,america,landlocked,christian,BOL,68,TRUE,americas,-17,-65
+bouisl,Bouvet Island,,,,,,TRUE,africa,,
+bra,Brazil,america,coastline,christian,BRA,76,TRUE,americas,-10,-55
+brb,Barbados,america,coastline,christian,BRB,52,TRUE,americas,13.16667,-59.53333
+btn,Bhutan,south_asia,landlocked,eastern_religions,BTN,64,TRUE,asia,27.5,90.5
+bwa,Botswana,sub_saharan_africa,landlocked,christian,BWA,72,TRUE,africa,-22,24
